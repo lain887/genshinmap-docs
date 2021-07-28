@@ -11,9 +11,7 @@ sidebar: false
 我们计划开发的新功能：
 
 - 基于移动设备用户的页面
-
 - 用户可自由编辑地图要素点位及其信息
-
 - 优化筛选器样式，新增更多功能
 
 当然如果您有任何其他有任何好的想法或者设计，欢迎加入我们一起实现。
@@ -91,8 +89,8 @@ sidebar: false
 
 ## 如何加入
 
-打点的小伙伴可以直接联系铃QQ：**717818652**。
+希望协助[标记点位]的小伙伴可以加入打点群：**992165223**。
 
-其他的小伙伴可以加群 [**717152601**](https://qm.qq.com/cgi-bin/qm/qr?k=jkbGpnEQlZ-1J2W0_RpWJXDkqD49Z-8N&jump_from=webapi '点击加入QQ群') 洽谈。
+希望协助[程序开发]的小伙伴可以加群 [**717152601**](https://qm.qq.com/cgi-bin/qm/qr?k=jkbGpnEQlZ-1J2W0_RpWJXDkqD49Z-8N&jump_from=webapi '点击加入QQ群') 洽谈。
 
 期待你的加入 😀~
